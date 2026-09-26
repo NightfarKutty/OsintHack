@@ -32,3 +32,6 @@ cd OsintHack
 
 # Install Python requirements
 pip install -r requirements.txt
+
+# Run Kutty Hacker Page
+python kuttyhacker.py
